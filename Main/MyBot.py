@@ -8,7 +8,7 @@ import yt_dlp # NEW
 from collections import deque # NEW
 import asyncio # NEW
 
-# Environment variables for tokens and other sensitive data
+# Environment variables for tokens and other sensitive datas
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
 
