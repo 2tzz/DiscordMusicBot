@@ -160,7 +160,7 @@ async def play_next_song(voice_client, guild_id, channel):
 
         ffmpeg_options = {
             "before_options": "-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5",
-            "options": "-vn -c:a libopus -b:a 96k",
+            "options": "-vn -c:a libopus -b:a 256k",
             # Remove executable if FFmpeg is in PATH
         }
 
