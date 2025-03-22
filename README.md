@@ -1,4 +1,8 @@
-# Discord Music Bot 🎵
+# Discord Music Bot 
+
+<a href="https://discord.gg/N2DNh4Br5X"><img src="https://img.shields.io/discord/1142044630909726760?logo=discord&logoColor=white&label=discord" alt="Number of users active in our Discord server"/></a>
+
+
 
 A feature-rich Discord music bot built with Python and `discord.py`. This bot allows users to play music from YouTube, manage a song queue, and control playback with commands like play, pause, skip, and stop.
 
